@@ -1,0 +1,106 @@
+﻿@model Dominio.Entidad.Negocios.Entidad.Herramienta
+
+@{
+    ViewBag.Title = "DetailsOscarAquise";
+}
+
+<h2>DetailsOscarAquise</h2>
+
+<div>
+    <h4>Herramienta</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdHer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdHer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DesHer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DesHer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MedHer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MedHer)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.IdCategoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdCategoria)
+        </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreCategoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreCategoria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PreUni)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PreUni)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdHerramienta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdHerramienta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Medida)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Medida)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioUnitario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioUnitario)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "EditOscarAquise", new { id = Model.IdHer }, new { @class = "btn btn-info" })|
+    @Html.ActionLink("Retornar", "ConsultaHerramientas")
+</p>

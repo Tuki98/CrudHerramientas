@@ -1,0 +1,12 @@
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.csproj.AssemblyReference.cache
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.csproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\bin\Debug\Infraestructura.Data.Negocios.dll.config
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\bin\Debug\Infraestructura.Data.Negocios.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\bin\Debug\Infraestructura.Data.Negocios.pdb
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\bin\Debug\Dominio.Entidad.Negocios.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\bin\Debug\Dominio.Repositorio.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\bin\Debug\Dominio.Entidad.Negocios.pdb
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\bin\Debug\Dominio.Repositorio.pdb
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.csproj.CopyComplete
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Infraestructura.Data.Negocios\obj\Debug\Infraestructura.Data.Negocios.pdb

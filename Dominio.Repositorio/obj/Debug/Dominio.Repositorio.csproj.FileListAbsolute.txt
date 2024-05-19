@@ -1,0 +1,6 @@
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.AssemblyReference.cache
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

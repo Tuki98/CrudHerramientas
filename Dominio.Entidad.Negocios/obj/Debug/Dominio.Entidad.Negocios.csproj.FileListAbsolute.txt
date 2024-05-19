@@ -1,0 +1,9 @@
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\bin\Debug\Dominio.Entidad.Negocios.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\bin\Debug\Dominio.Entidad.Negocios.pdb
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\bin\Debug\Dominio.Repositorio.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\bin\Debug\Dominio.Repositorio.pdb
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\obj\Debug\Dominio.Entidad.Negocios.csproj.AssemblyReference.cache
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\obj\Debug\Dominio.Entidad.Negocios.csproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\obj\Debug\Dominio.Entidad.Negocios.csproj.CopyComplete
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\obj\Debug\Dominio.Entidad.Negocios.dll
+D:\Users\USER\Desktop\CIBERTEC\ciclo5\POO2\examenfinal\POOII_EF_OscarAquise\Dominio.Entidad.Negocios\obj\Debug\Dominio.Entidad.Negocios.pdb
